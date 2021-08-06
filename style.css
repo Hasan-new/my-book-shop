@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color: tomato;
+    font-weight: 700;
+}
+#carouselExampleCaptions{
+    height: 400px;
+    background-color: honeydew;
+}
